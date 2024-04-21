@@ -335,10 +335,10 @@ namespace Pathos
         E.LifeAdvancement.Set(4, 1.d3());
         E.ManaAdvancement.Set(0, Dice.Zero);
         E.DefaultForm.Set(STR: 10, DEX: 10, CON: 10, INT: 10, WIS: 10, CHA: 10);
-        E.LimitForm.Set(STR: 22, DEX: 18, CON: 24, INT: 18, WIS: 20, CHA: 18);
+        E.LimitForm.Set(STR: 22, DEX: 18, CON: 30, INT: 18, WIS: 20, CHA: 18);
         E.SetGender(Genders.male, Genders.female);
         E.Chemistry.SetVulnerability();
-        E.Startup.SetTalent(Properties.dark_vision, Properties.vitality, Properties.searching);
+        E.Startup.SetTalent();
         E.SetCorpse(Chance.Always);
       });
 

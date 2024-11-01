@@ -59,7 +59,7 @@ namespace Pathos
       starving = AddStatus("starving", Inv.Colour.DarkRed, 0, A =>
       {
         A.StrengthModifier = -1;
-        A.SpeedModifier = +0.35F; // starving is slight speed bonus.
+        A.SpeedModifier = +0.5F; // starving is slight speed bonus.
         A.UnableAtWill = true;
         A.RecoveryRateOverride = Rules.StarvationRecoveryRate;
         A.PriceMultiplier = 4;

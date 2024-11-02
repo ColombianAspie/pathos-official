@@ -23,6 +23,7 @@ namespace Pathos
 
       angel = AddRace("angel");
       changeling = AddRace("changeling");
+      demigiant = AddRace("demigiant");
       demon = AddRace("demon");
       dwarf = AddRace("dwarf");
       echo = AddRace("echo");
@@ -51,6 +52,7 @@ namespace Pathos
 
     public readonly Race angel;
     public readonly Race changeling;
+    public readonly Race demigiant;
     public readonly Race demon;
     public readonly Race dwarf;
     public readonly Race echo;

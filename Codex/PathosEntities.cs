@@ -34732,6 +34732,7 @@ namespace Pathos
     public readonly Entity deep_one;
     public readonly Entity deeper_one;
     public readonly Entity deepest_one;
+    public readonly Entity demigiant;
     public readonly Entity demilich;
     public readonly Entity demon;
     public readonly Entity demon_orc;

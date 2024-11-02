@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Những người sống sót du mục giống như những con rùa rời khỏi nơi sinh của họ, ngay từ khi họ có thể đi bộ, để đi du lịch khắp thế giới với sự thoải mái và bảo vệ của ngôi nhà trên lưng."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Những sinh vật xấu xí, thú tính với tập tính ăn thịt đồng loại; Chủng tộc hiếu chiến này được biết đến với sức mạnh phi thường và trí thông minh ngu dốt đến đần độn của chúng."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Được các đặc tính một cách bất công là hèn nhát và yếu đuối, những sinh vật bò sát nhỏ bé này vượt qua những hạn chế về thể chất của chúng bằng cách sử dụng các chiến lược xấu xa và xảo quyệt."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,trụ trì
 EntityName,acid blob,bãi axít
 EntityName,acid worm,giun axít
@@ -1319,6 +1320,7 @@ EntityName,deep one,deep one
 EntityName,deeper one,deeper one
 EntityName,deepest one,deepest one
 EntityName,Deliarne,Dark One
+EntityName,demigiant,
 EntityName,demilich,bán quỷ vu yêu
 EntityName,Demogorgon,Demogorgon
 EntityName,demon,quỷ
@@ -3056,6 +3058,7 @@ KindName,blob,bãi
 KindName,cat,mèo
 KindName,centaur,nhân mã
 KindName,changeling,yêu tinh mạo danh
+KindName,demigiant,
 KindName,demon,ác quỷ
 KindName,devourer,devourer
 KindName,dog,chó
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,thiên thần lưỡng tính
 RaceName,changeling//female,yêu tinh mạo danh nữ
 RaceName,changeling//male,yêu tinh mạo danh nam
 RaceName,changeling//non-binary,yêu tinh mạo danh lưỡng tính
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,quỷ nữ
 RaceName,demon//male,quỷ nam
 RaceName,demon//non-binary,quỷ lưỡng tính

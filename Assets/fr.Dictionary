@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Des survivants nomades ressemblant à des tortues qui quittent leur lieu de naissance, dès qu'ils peuvent marcher, pour parcourir le monde avec le confort et la protection de leur maison sur le dos."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",Créatures laides et brutales avec des tendances cannibales; cette race guerrière est connue pour sa force impressionnante et ses incapacités intellectuelles.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Injustement qualifiées de lâches et de faibles, ces petites créatures reptiliennes surmontent leurs limites physiques en employant des stratégies vicieuses et rusées."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,abbé
 EntityName,acid blob,blob d'acide
 EntityName,acid worm,ver d'acide
@@ -1319,6 +1320,7 @@ EntityName,deep one,le profond
 EntityName,deeper one,le plus profond
 EntityName,deepest one,le profond absolu
 EntityName,Deliarne,Sombre Entité
+EntityName,demigiant,
 EntityName,demilich,demiliche
 EntityName,Demogorgon,Démogorgon
 EntityName,demon,démon
@@ -3056,6 +3058,7 @@ KindName,blob,blob
 KindName,cat,chat
 KindName,centaur,centaure
 KindName,changeling,changeling
+KindName,demigiant,
 KindName,demon,démon
 KindName,devourer,dévoreur
 KindName,dog,chien
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,ange
 RaceName,changeling//female,changeling
 RaceName,changeling//male,changeling
 RaceName,changeling//non-binary,changeling
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,démon
 RaceName,demon//male,démon
 RaceName,demon//non-binary,démon

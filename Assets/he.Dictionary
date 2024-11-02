@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","שורדים נודדים דמויי-צב, שעוזבים את מקום הולדתם ברגע שבו הם לומדים ללכת, ונודדים בעולם בתוך הנוחות וההגנה שמספק בית על הגב."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",יצורים מכוערים וגסים בעלי נטיות קניבליות; בני הגזע הלוחם הזה ידועים בכוחם המרשים ובשכלם הרפה.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",זוחלים זעירים שקיבלו שם לא הוגן של יצורים פחדניים וחלשים. הם מתגברים על מגבלותיהם הגופניות באמצעות אסטרטגיות מרושעות וערמומיות.
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,נזיר
 EntityName,acid blob,גוש חומצה
 EntityName,acid worm,תולעת חומצה
@@ -1319,6 +1320,7 @@ EntityName,deep one,שוכן מעמקים
 EntityName,deeper one,שוכן עמקי מעמקים
 EntityName,deepest one,שוכן עמקי עמקי מעמקים
 EntityName,Deliarne,דליארנה
+EntityName,demigiant,
 EntityName,demilich,דמיליץ'
 EntityName,Demogorgon,דמוגורגון
 EntityName,demon,שד
@@ -3056,6 +3058,7 @@ KindName,blob,גוש
 KindName,cat,חתול או חתולה
 KindName,centaur,קנטאור או קנטאורית
 KindName,changeling,בן או בת חליפין
+KindName,demigiant,
 KindName,demon,שד או שדה
 KindName,devourer,מעכל או מעכלת
 KindName,dog,כלב או כלבה
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,מלאכ.ית
 RaceName,changeling//female,בת חליפין
 RaceName,changeling//male,בן חליפין
 RaceName,changeling//non-binary,חליפין
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,שדה
 RaceName,demon//male,שד
 RaceName,demon//non-binary,שד.ה

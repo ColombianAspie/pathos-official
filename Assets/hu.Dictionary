@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Ronda, érzéketlen lények, kannibál hajlamokkal; ez a harcias faj lenyűgöző erejéről és visszamaradott szellemi képességeiről ismert."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,apát
 EntityName,acid blob,savas paca
 EntityName,acid worm,savas féreg
@@ -1319,6 +1320,7 @@ EntityName,deep one,mélyenlakó
 EntityName,deeper one,mélyebben lakó
 EntityName,deepest one,legmélyebben lakó
 EntityName,Deliarne,Sötét Nagyúr
+EntityName,demigiant,
 EntityName,demilich,féllidérc
 EntityName,Demogorgon,Demogorgon
 EntityName,demon,démon
@@ -3056,6 +3058,7 @@ KindName,blob,paca
 KindName,cat,macskaféle
 KindName,centaur,kentaur
 KindName,changeling,elcserélt gyermek
+KindName,demigiant,
 KindName,demon,démon
 KindName,devourer,felfaló
 KindName,dog,kutyaféle
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,angyal
 RaceName,changeling//female,elcserélt gyermek
 RaceName,changeling//male,elcserélt gyermek
 RaceName,changeling//non-binary,elcserélt gyermek
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,démon
 RaceName,demon//male,démon
 RaceName,demon//non-binary,démon

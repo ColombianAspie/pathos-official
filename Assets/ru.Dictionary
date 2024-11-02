@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Черепахоподобные кочевники-выживальщики, которые покидают место своего рождения с того момента, как научились ходить, чтобы путешествовать по миру с комфортом и надёжным домом на спине."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Уродливые, жестокие существа с людоедскими наклонностями. Эта воинственная раса известна своей впечатляющей силой и отсутствующим умственным потенциалом."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Несправедливо считающиеся трусливыми и слабыми, эти маленькие рептилоидные существа преодолевают свои физические ограничения, используя злобные и хитрые тактики."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,аббат
 EntityName,acid blob,кислотный пузырь
 EntityName,acid worm,кислотный червь
@@ -1319,6 +1320,7 @@ EntityName,deep one,глубокий
 EntityName,deeper one,глубинный
 EntityName,deepest one,глубочайший
 EntityName,Deliarne,Делиарн
+EntityName,demigiant,
 EntityName,demilich,демилич
 EntityName,Demogorgon,Демогоргон
 EntityName,demon,демон
@@ -3056,6 +3058,7 @@ KindName,blob,пузыри
 KindName,cat,кошачьи
 KindName,centaur,кентавры
 KindName,changeling,перевёртыши
+KindName,demigiant,
 KindName,demon,демоны
 KindName,devourer,поглотители
 KindName,dog,псовые
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,ангел
 RaceName,changeling//female,перевёртыш
 RaceName,changeling//male,перевёртыш
 RaceName,changeling//non-binary,перевёртыш
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,демон
 RaceName,demon//male,демон
 RaceName,demon//non-binary,демон

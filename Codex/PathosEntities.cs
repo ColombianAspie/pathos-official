@@ -261,9 +261,9 @@ namespace Pathos
         E.SetCorpse(Chance.Always);
       });
 
-      demigiant = AddBaseEntity(Kinds.demon, Races.demon, "demigiant", E =>
+      demigiant = AddBaseEntity(Kinds.demigiant, Races.demigiant, "demigiant", E =>
       {
-        E.Description = "With a towering stature of around 8 feet, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged";
+        E.Description = "With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged";
         E.Glyph = Glyphs.human;
         E.Level = 0;
         E.Challenge = 0;
@@ -293,7 +293,7 @@ namespace Pathos
         );
         E.LifeAdvancement.Set(2, Dice.Fixed(+2));
         E.ManaAdvancement.Set(2, Dice.Fixed(+2));
-        E.DefaultForm.Set(STR: 10, DEX: 10, CON: 10, INT: 10, WIS: 10, CHA: 10);
+        E.DefaultForm.Set(STR: 10, DEX: 10, CON: 20, INT: 10, WIS: 10, CHA: 10);
         E.LimitForm.Set(STR: 25, DEX: 10, CON: 35, INT: 15, WIS: 25, CHA: 15);
         E.SetGender(Genders.male, Genders.female);
         E.Startup.SetTalent();

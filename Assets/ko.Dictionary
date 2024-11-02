@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","태어나고 걷기 시작하자마자 고향을 떠난 거북이의 형체를 가진 유목민 생존자, 그들은 등뒤에 안전하고 포근한 집을달고 어디로든 모험을 떠난다."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",식인의 습성을 가진 못생기고 야만적인 생명체들. 이 전쟁에 미친 종족들은 인상적인 힘과 수준낮은 지능으로 유명하다.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","엄청나게 겁이 많은데다 매우 약한 종족이다, 이 작은 파충류는 자신의 신체적인 약점을 사악하고 교활한 전략으로 극복한다."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,수도원장
 EntityName,acid blob,산성 방울
 EntityName,acid worm,산성 벌레
@@ -1319,6 +1320,7 @@ EntityName,deep one,깊은 곳의 존재
 EntityName,deeper one,더욱 깊은 곳의 존재
 EntityName,deepest one,가장 깊은 곳의 존재
 EntityName,Deliarne,어두운 자
+EntityName,demigiant,
 EntityName,demilich,데미리치
 EntityName,Demogorgon,데모고르곤
 EntityName,demon,악마
@@ -3056,6 +3058,7 @@ KindName,blob,방울
 KindName,cat,고양이
 KindName,centaur,켄타우로스
 KindName,changeling,체인질링
+KindName,demigiant,
 KindName,demon,악마
 KindName,devourer,포식귀
 KindName,dog,개
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,천사
 RaceName,changeling//female,체인질링
 RaceName,changeling//male,체인질링
 RaceName,changeling//non-binary,체인질링
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,악마
 RaceName,demon//male,악마
 RaceName,demon//non-binary,악마

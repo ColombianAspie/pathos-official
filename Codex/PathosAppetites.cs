@@ -32,7 +32,7 @@ namespace Pathos
       satiated = AddStatus("satiated", Inv.Colour.DarkGreen, 1000, A =>
       {
         A.SpeedModifier = -0.25F; // overfed is a slight speed penalty.
-        A.StrengthModifier = +2;
+        A.StrengthModifier = +3;
         A.PriceMultiplier = 1;
         A.Interrupt = true;
       });

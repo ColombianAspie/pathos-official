@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,başrahip
 EntityName,acid blob,asit birikintisi
 EntityName,acid worm,asit solucan
@@ -1319,6 +1320,7 @@ EntityName,deep one,derin olan
 EntityName,deeper one,derinliğe varan
 EntityName,deepest one,dipte olan
 EntityName,Deliarne,Karanlık Kişi
+EntityName,demigiant,
 EntityName,demilich,yarı liş
 EntityName,Demogorgon,Demogorgon
 EntityName,demon,iblis
@@ -3056,6 +3058,7 @@ KindName,blob,birikinti
 KindName,cat,kedi
 KindName,centaur,sentor
 KindName,changeling,
+KindName,demigiant,
 KindName,demon,iblis
 KindName,devourer,emici
 KindName,dog,köpek
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,
 RaceName,changeling//female,dönüşken
 RaceName,changeling//male,dönüşken
 RaceName,changeling//non-binary,dönüşken
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,
 RaceName,demon//male,
 RaceName,demon//non-binary,

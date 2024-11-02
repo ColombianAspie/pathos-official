@@ -46,6 +46,7 @@ namespace Pathos
       cat = AddLivingKind("cat");
       changeling = AddLivingKind("changeling");
       centaur = AddLivingKind("centaur");
+      demigiant = AddLivingKind("demigiant");
       demon = AddOtherKind("demon");
       devourer = AddLivingKind("devourer");
       dog = AddLivingKind("dog");
@@ -116,6 +117,7 @@ namespace Pathos
     public readonly Kind cat;
     public readonly Kind centaur;
     public readonly Kind changeling;
+    public readonly Kind demigiant;
     public readonly Kind demon;
     public readonly Kind devourer;
     public readonly Kind dog;

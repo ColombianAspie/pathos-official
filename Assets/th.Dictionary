@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,อธิการ
 EntityName,acid blob,ก้อนกรด
 EntityName,acid worm,หนอนกรด
@@ -1319,6 +1320,7 @@ EntityName,deep one,
 EntityName,deeper one,
 EntityName,deepest one,
 EntityName,Deliarne,ดาร์ควัน
+EntityName,demigiant,
 EntityName,demilich,กึ่งลิช
 EntityName,Demogorgon,เดโมกอร์ก้อน
 EntityName,demon,ปีศาจ
@@ -3056,6 +3058,7 @@ KindName,blob,ก้อน
 KindName,cat,แมว
 KindName,centaur,
 KindName,changeling,
+KindName,demigiant,
 KindName,demon,ปีศาจ
 KindName,devourer,
 KindName,dog,สุนัข
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,ทูตสวรรค์
 RaceName,changeling//female,เชนจลิง
 RaceName,changeling//male,เชนจลิง
 RaceName,changeling//non-binary,เชนจลิง
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,ปีศาจ
 RaceName,demon//male,ปีศาจ
 RaceName,demon//non-binary,ปีศาจ

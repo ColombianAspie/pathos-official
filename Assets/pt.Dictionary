@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Tartarugas nômades sobreviventes que saem de seu local de nascimento assim que aprendem  a andar, com o objetivo de viajar o mundo com o conforto e proteção de uma casa em suas costas"
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",Criaturas feias e brutais com tendências canibais; essa raça guerreira é conhecida por sua impressionante força e incapacidades intelectuais.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Injustamente conhecidas por sua covardia e fraqueza, essas pequeninas criaturas reptilianas superam suas limitações físicas utilizando estratégias ardilosas e mortais."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,abade
 EntityName,acid blob,bolha de ácido
 EntityName,acid worm,minhoca de ácido
@@ -1319,6 +1320,7 @@ EntityName,deep one,o profundo
 EntityName,deeper one,o mais profundo
 EntityName,deepest one,o mais profundo de todos
 EntityName,Deliarne,O Trevoso
+EntityName,demigiant,
 EntityName,demilich,semilich
 EntityName,Demogorgon,Demogorgon
 EntityName,demon,demônio
@@ -3056,6 +3058,7 @@ KindName,blob,bolha
 KindName,cat,gato
 KindName,centaur,centauro
 KindName,changeling,trocado
+KindName,demigiant,
 KindName,demon,demônio
 KindName,devourer,devorador
 KindName,dog,cachorro
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,anjo
 RaceName,changeling//female,multimorfa
 RaceName,changeling//male,multimorfo
 RaceName,changeling//non-binary,multimorfe
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,demônio
 RaceName,demon//male,demônio
 RaceName,demon//non-binary,demônio

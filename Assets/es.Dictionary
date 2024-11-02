@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Supervivientes nómadas similares a tortugas que, desde el momento en que pueden caminar, recorren el mundo llevando consigo la comodidad y protección de su hogar en sus espaldas, que es el lugar donde nacieron."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",Criaturas feas y brutales con tendencias caníbales; esta raza guerrera es conocida por su impresionante fuerza e incapacidades intelectuales.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Injustamente caracterizadas como cobardes y débiles, estas diminutas criaturas reptilianas superan sus limitaciones físicas mediante el empleo de estrategias viciosas y astutas."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,abad
 EntityName,acid blob,masa amorfa ácida
 EntityName,acid worm,gusano ácido
@@ -1319,6 +1320,7 @@ EntityName,deep one,el profundo
 EntityName,deeper one,el más profundo
 EntityName,deepest one,el profundísimo
 EntityName,Deliarne,El Oscuro
+EntityName,demigiant,
 EntityName,demilich,semilich
 EntityName,Demogorgon,Demogorgon
 EntityName,demon,demonio
@@ -3056,6 +3058,7 @@ KindName,blob,masa amorfa
 KindName,cat,gato
 KindName,centaur,centauro
 KindName,changeling,cambiaformas
+KindName,demigiant,
 KindName,demon,demonio
 KindName,devourer,devorador
 KindName,dog,perro
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,ángel
 RaceName,changeling//female,cambiaformas
 RaceName,changeling//male,cambiaformas
 RaceName,changeling//non-binary,cambiaformas
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,diabla
 RaceName,demon//male,demonio
 RaceName,demon//non-binary,demonio

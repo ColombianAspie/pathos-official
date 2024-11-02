@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Схожі на черепах кочові діти природи, які залишають рідні місця, як тільки навчаться ходити, щоб мандрувати світом, несучи на спині комфорт і захист власної домівки."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Некрасиві, брутальні істоти зі схильністю до канібалізма; ця войовнича раса відома своєю силою, що вражає, та інтелектуальною нездатністю."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Хибно вважаються боягузами та слабаками, але ці маленькі рептилоїдні істоти компенсують свої фізичні недоліки, вдаючись до жорстоких та підступних тактик."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,абат
 EntityName,acid blob,кислотний міхур
 EntityName,acid worm,кислотний черв'як
@@ -1319,6 +1320,7 @@ EntityName,deep one,глибинник
 EntityName,deeper one,глибинніший
 EntityName,deepest one,найглибинніший
 EntityName,Deliarne,Темний
+EntityName,demigiant,
 EntityName,demilich,демоліч
 EntityName,Demogorgon,Демогоргон
 EntityName,demon,демон
@@ -3056,6 +3058,7 @@ KindName,blob,міхур
 KindName,cat,котячі
 KindName,centaur,кентаври
 KindName,changeling,змінці
+KindName,demigiant,
 KindName,demon,демони
 KindName,devourer,поглиначі
 KindName,dog,псові
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,янгол
 RaceName,changeling//female,змінець
 RaceName,changeling//male,змінець
 RaceName,changeling//non-binary,змінець
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,демониця
 RaceName,demon//male,демон
 RaceName,demon//non-binary,демон

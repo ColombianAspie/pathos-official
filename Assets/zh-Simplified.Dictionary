@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",他们和乌龟一样背着大大的壳，是天生的游牧生存主义者。从学会走路的那一刻起，他们就会离开家乡去环游世界。无论走到哪里，他们的背后都有家的舒适与庇护。
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",丑陋而残暴的食人物种，好战、强力但愚蠢。
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",大家常常以貌取人，觉得这种矮小的爬行动物软弱而无能。他们用邪恶而狡猾的策略来面对难题，以克服自己身体上的限制。
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,修道院长
 EntityName,acid blob,强酸污斑
 EntityName,acid worm,强酸蠕虫
@@ -1319,6 +1320,7 @@ EntityName,deep one,深潜者
 EntityName,deeper one,更深潜者
 EntityName,deepest one,最深潜者
 EntityName,Deliarne,暗黑者
+EntityName,demigiant,
 EntityName,demilich,半巫妖
 EntityName,Demogorgon,狄摩高根
 EntityName,demon,恶魔
@@ -3056,6 +3058,7 @@ KindName,blob,污斑
 KindName,cat,猫
 KindName,centaur,人马
 KindName,changeling,变形人
+KindName,demigiant,
 KindName,demon,恶魔
 KindName,devourer,吞噬者
 KindName,dog,狗
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,天使
 RaceName,changeling//female,变形人
 RaceName,changeling//male,变形人
 RaceName,changeling//non-binary,变形人
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,恶魔
 RaceName,demon//male,恶魔
 RaceName,demon//non-binary,恶魔

@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.",
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.",Creature brutte e brutali con tendenze cannibalistiche; questa razza guerriera è nota per la loro forza impressionante e le loro incapacità intellettuali.
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.",
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,abate
 EntityName,acid blob,chiazza di acido
 EntityName,acid worm,verme acido
@@ -1319,6 +1320,7 @@ EntityName,deep one,il profondo
 EntityName,deeper one,il profondissimo
 EntityName,deepest one,il più profondo
 EntityName,Deliarne,L'Oscuro
+EntityName,demigiant,
 EntityName,demilich,demilich
 EntityName,Demogorgon,Demogorgone
 EntityName,demon,demone
@@ -3056,6 +3058,7 @@ KindName,blob,blob
 KindName,cat,gatto
 KindName,centaur,centauro
 KindName,changeling,cangiante
+KindName,demigiant,
 KindName,demon,demone
 KindName,devourer,divoratore
 KindName,dog,cane
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,angelo
 RaceName,changeling//female,cangiante
 RaceName,changeling//male,cangiante
 RaceName,changeling//non-binary,cangiante
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,demonessa
 RaceName,demon//male,demone
 RaceName,demon//non-binary,demone

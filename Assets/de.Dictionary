@@ -1171,6 +1171,7 @@ EntityDescription,"Tiny winged spirits, inherently magical and extraordinarily b
 EntityDescription,"Tortoise-like nomadic survivalists who leave their birthplace, from the moment they can walk, to travel the world with the comfort and protection of home on their backs.","Schildkrötenartige, nomadische Überlebenskünstler. Sobald sie laufen können, ziehen sie von ihrer Geburtsstätte los, um die Welt mit ihrer sicheren Behausung auf dem Rücken zu entdecken."
 EntityDescription,"Ugly, brutish creatures with cannibalistic tendencies; this warlike race is known for their impressive strength and intellectual incapabilities.","Hässliche, brutale Kreaturen mit kannibalistischen Tendenzen. Diese kriegerische Rasse ist bekannt für ihre beeindruckende Stärke und intellektuelle Unfähigkeit."
 EntityDescription,"Unfairly characterised as cowardly and weak, these diminutive reptilian creatures overcome their physical limitations by employing vicious and cunning strategies.","Unfairerweise als schwach und feige charakterisiert, wachsen diese Reptiloiden mit List und Tücke über ihre physischen Grenzen hinaus."
+EntityDescription,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",
 EntityName,abbot,Abt
 EntityName,acid blob,Säureblob
 EntityName,acid worm,Säurewurm
@@ -1319,6 +1320,7 @@ EntityName,deep one,Tiefer
 EntityName,deeper one,Tieferer
 EntityName,deepest one,Tiefster
 EntityName,Deliarne,Dunkles Wesen
+EntityName,demigiant,
 EntityName,demilich,Halb-Lich
 EntityName,Demogorgon,Demogorgon
 EntityName,demon,Dämon
@@ -3056,6 +3058,7 @@ KindName,blob,Blob
 KindName,cat,Katze
 KindName,centaur,Zentaur
 KindName,changeling,Formwandler
+KindName,demigiant,
 KindName,demon,Dämon
 KindName,devourer,Verschlinger
 KindName,dog,Hund
@@ -4274,6 +4277,9 @@ RaceName,angel//non-binary,Engel
 RaceName,changeling//female,Wechselbalg
 RaceName,changeling//male,Wechselbalg
 RaceName,changeling//non-binary,Wechselbalg
+RaceName,demigiant//female,
+RaceName,demigiant//male,
+RaceName,demigiant//non-binary,
 RaceName,demon//female,Dämonin
 RaceName,demon//male,Dämon
 RaceName,demon//non-binary,Dämonen

@@ -352,7 +352,7 @@ namespace Pathos
         E.Frequency = 0;
         E.Defence = new Defence(D: 10, P: +0, S: +0, B: +0);
         E.SetDiet(Diets.omnivore);
-        E.Speed = Speed.S4_5;
+        E.Speed = Speed.S6_0;
         E.Size = Size.Small;
         E.Strategy = Strategy.Attack;
         E.Weight = Weight.FromUnits(5000);
@@ -377,7 +377,7 @@ namespace Pathos
         E.DefaultForm.Set(STR: 10, DEX: 10, CON: 10, INT: 10, WIS: 10, CHA: 10);
         E.LimitForm.Set(STR: 16, DEX: 22, CON: 16, INT: 18, WIS: 18, CHA: 22);
         E.SetGender(Genders.male, Genders.female);
-        E.Startup.SetTalent(Properties.dark_vision, Properties.stealth, Properties.searching);
+        E.Startup.SetTalent(Properties.slow_digestion, Properties.stealth, Properties.searching);
         E.SetCorpse(Chance.Always);
       });
 

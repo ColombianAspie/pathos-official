@@ -32,6 +32,7 @@ namespace Pathos
       satiated = AddStatus("satiated", Inv.Colour.DarkGreen, 1000, A =>
       {
         A.SpeedModifier = -0.25F; // overfed is a slight speed penalty.
+        A.StrengthModifier = +2;
         A.PriceMultiplier = 1;
         A.Interrupt = true;
       });
@@ -59,7 +60,7 @@ namespace Pathos
       starving = AddStatus("starving", Inv.Colour.DarkRed, 0, A =>
       {
         A.StrengthModifier = -1;
-        A.SpeedModifier = +0.25F; // starving is slight speed bonus.
+        A.SpeedModifier = +0.5F; // starving is slight speed bonus.
         A.UnableAtWill = true;
         A.RecoveryRateOverride = Rules.StarvationRecoveryRate;
         A.PriceMultiplier = 4;

@@ -261,6 +261,45 @@ namespace Pathos
         E.SetCorpse(Chance.Always);
       });
 
+      demigiant = AddBaseEntity(Kinds.demon, Races.demon, "demigiant", E =>
+      {
+        E.Description = "With a towering stature of around 8 feet, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged";
+        E.Glyph = Glyphs.human;
+        E.Level = 0;
+        E.Challenge = 0;
+        E.Difficulty = 0;
+        E.Frequency = 0;
+        E.Defence = new Defence(D: 10, P: +0, S: +0, B: +0);
+        E.SetDiet(Diets.omnivore);
+        E.Speed = Speed.S4_0;
+        E.Size = Size.Large;
+        E.Strategy = Strategy.Attack;
+        E.Weight = Weight.FromUnits(35000);
+        E.Figure.Set
+        (
+          Material: Materials.animal,
+          Head: true,
+          Mind: true,
+          Voice: true,
+          Eyes: true,
+          Ears: true,
+          Hands: true,
+          Limbs: true,
+          Feet: true,
+          Thermal: true,
+          Blood: true,
+          Mounted: false,
+          Amorphous: false
+        );
+        E.LifeAdvancement.Set(2, Dice.Fixed(+2));
+        E.ManaAdvancement.Set(2, Dice.Fixed(+2));
+        E.DefaultForm.Set(STR: 10, DEX: 10, CON: 10, INT: 10, WIS: 10, CHA: 10);
+        E.LimitForm.Set(STR: 25, DEX: 10, CON: 35, INT: 15, WIS: 25, CHA: 15);
+        E.SetGender(Genders.male, Genders.female);
+        E.Startup.SetTalent();
+        E.SetCorpse(Chance.Always);
+      });
+
       demon = AddBaseEntity(Kinds.demon, Races.demon, "demon", E =>
       {
         E.Description = "Perverse creatures of many aberrations but always with crimson skin and horns. Their mere presence compels others to act out their darkest, most violent desires.";

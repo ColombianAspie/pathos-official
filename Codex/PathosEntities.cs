@@ -291,10 +291,10 @@ namespace Pathos
           Mounted: false,
           Amorphous: false
         );
-        E.LifeAdvancement.Set(2, Dice.Fixed(+2));
-        E.ManaAdvancement.Set(2, Dice.Fixed(+2));
+        E.LifeAdvancement.Set(2, Dice.Fixed(+4));
+        E.ManaAdvancement.Set(2, Dice.Fixed(+1));
         E.DefaultForm.Set(STR: 10, DEX: 10, CON: 10, INT: 10, WIS: 10, CHA: 10);
-        E.LimitForm.Set(STR: 24, DEX: 10, CON: 40, INT: 14, WIS: 24, CHA: 14);
+        E.LimitForm.Set(STR: 26, DEX: 14, CON: 30, INT: 14, WIS: 26, CHA: 14);
         E.SetGender(Genders.male, Genders.female);
         E.Startup.SetTalent();
         E.SetCorpse(Chance.Always);

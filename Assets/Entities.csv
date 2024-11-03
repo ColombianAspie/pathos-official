@@ -67,7 +67,7 @@ centaur,,forest centaur,,10,3,12,160,large,animal,75500,"5,0",20,attack,,18,14,1
 centaur,,mountain centaur,,18,3,24,520,large,animal,85500,"5,0",24,attack,,18,14,14,9,13,11
 centaur,,plains centaur,,4,3,6,25,large,animal,65500,"5,0",16,attack,,18,14,14,9,13,11
 changeling,changeling,changeling,"Shape-shifting deviants, who thrive on their deceptive talents.",0,0,0,0,small,animal,5000,"3,3",10,attack,BASE,10,10,10,10,10,10
-demigiant,demigiant,demigiant,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",0,0,0,0,large,animal,35000,"4,0",10,attack,BASE,10,10,20,10,10,10
+demigiant,demigiant,demigiant,"With a towering stature, demigiants trace their ancestry to primordial giants of old, this race is astoundingly robust and rugged",0,0,0,0,large,animal,35000,"4,0",10,attack,BASE,10,10,10,10,10,10
 demon,,Asmodeus,,75,0,80,10164,huge,animal,44000,"4,0",30,attack,UNIQUE,24,22,26,23,25,30
 demon,,Baalzebub,,75,0,80,10889,large,animal,28000,"3,3",29,attack,UNIQUE,22,24,26,24,20,22
 demon,,babau,,9,1,14,239,large,animal,14500,"5,0",20,attack,,18,18,18,13,14,16
